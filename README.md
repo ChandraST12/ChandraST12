@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Full Stack Web Developer | DSA Enthusiast 🧠
 
-<!--
-**ChandraST12/ChandraST12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Chandra Subhashini Thakran, a versatile developer passionate about building web applications and mastering Data Structures and Algorithms.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on MERN Stack.
+- 🌱 Learning and implementing the latest web technologies.
+- 📘 Exploring advanced DSA topics, solving coding challenges on platforms like LeetCode and HackerRank.
+- 💬 Let's chat about front-end frameworks, back-end development, and efficient algorithmic solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 Skills & Technologies
+
+- **Web Development:** HTML, CSS, TailwindCSS, JavaScript,TypeScript, React, Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, VSCode
+- **Data Structures & Algorithms:** Arrays, Linked Lists, Trees, Stack, Queues, Graph, Sorting Algorithms, Recursion & Backtracking, Dynamic Programming
+
+## 📊 GitHub Stats
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ChandraST12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChandraST12&theme=blue-green)](https://git.io/streak-stats)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/chandra-subhashini-thakran-a83422218/)]
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/CSTHAKRAN/)
+
+## 🌐 Portfolio
+
+[Check out my portfolio]() for more details about my projects and experience. Still Working on PORTFOLIO
+
+🚀 Let's collaborate and build amazing things together!
+
