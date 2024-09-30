@@ -11,9 +11,9 @@ Hi, I'm Chandra Subhashini Thakran, a versatile developer passionate about build
 
 ## 🚀 Skills & Technologies
 
-- **Web Development:** HTML, CSS, TailwindCSS, JavaScript,TypeScript, React, Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, VSCode
+- **Web Development:** HTML, CSS, TailwindCSS, JavaScript,TypeScript, React,Redux ,  Node.js, Express.js
+- **Database:** MongoDB, MySQL , SQL
+- **Tools:** Git, VSCode,Netlify ,Vercel
 - **Data Structures & Algorithms:** Arrays, Linked Lists, Trees, Stack, Queues, Graph, Sorting Algorithms, Recursion & Backtracking, Dynamic Programming
 
 ## 📊 GitHub Stats
