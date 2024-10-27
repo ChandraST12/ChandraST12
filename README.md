@@ -24,7 +24,7 @@ Hi, I'm Chandra Subhashini Thakran, a versatile developer passionate about build
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/chandra-subhashini-thakran-a83422218/)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chandra-subhashini-thakran-a83422218/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/CSTHAKRAN/)
 
 ## 🌐 Portfolio
